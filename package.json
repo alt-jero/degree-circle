@@ -1,0 +1,26 @@
+{
+  "name": "degree-circle",
+  "version": "1.0.0",
+  "description": "A small library for comparing and performing operations on 0-360 degree values",
+  "main": "degreeCircle.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alt-jero/degree-circle.git"
+  },
+  "keywords": ["circle", "degrees" ],
+  "author": {
+    "name": "Jeremy Rumble",
+    "email": "jero.rumble@gmail.com"
+  },
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/alt-jero/degree-circle/issues"
+  },
+  "homepage": "https://github.com/alt-jero/degree-circle#readme",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
