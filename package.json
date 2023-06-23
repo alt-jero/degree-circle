@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/alt-jero/degree-circle#readme",
   "devDependencies": {
-    "ava": "^2.4.0"
+    "ava": "^5.3.1"
   }
 }
